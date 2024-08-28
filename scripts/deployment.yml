@@ -19,7 +19,7 @@ spec:
         imagePullPolicy: Never
         env:
         - name: DATABASE_URL
-          value: "postgresql://wenzong_sit722_user:opJoTHqOzqQK2kjaYKiDKGpaorF1VEpf@dpg-cqg9kdtds78s73catas0-a.oregon-postgres.render.com/wenzong_sit722"
+          value: "postgresql://andy_sit722_part2_user:9IUGcdhKBrpBtnrJ5EftU9EN8ksXuhY0@dpg-cr79l9a3esus73856ht0-a.oregon-postgres.render.com/andy_sit722_part2"
         ports:
         - containerPort: 80
 
